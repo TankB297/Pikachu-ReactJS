@@ -1,0 +1,18 @@
+.each-block{
+    width: 4%;
+    background: #e5dcdc;
+    padding: 2px;
+    border-radius: 10%;
+    opacity: 80%;
+    margin: 2px;
+}
+.isSelected{
+    width: 4%;
+    background: white;
+    padding: 2px;
+    border-radius: 10%;
+    margin: 2px;
+}
+.hiddenItem{
+    opacity: 0;
+}
